@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm nero-15</h1>
-<h3 align="center">developer from Japan</h3>
+<h1>Hi 👋, I'm nero-15</h1>
+<h3>developer from Japan</h3>
 
 - 🌱 I’m currently learning **golang**
 
