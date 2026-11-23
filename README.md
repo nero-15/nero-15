@@ -45,16 +45,49 @@ Choose three different digits from `0` `1` `2` `3` `9`.
 | `129` | 2 | 0 |
 
 <details>
-<summary>Check your code · 答え合わせ</summary>
+<summary><strong>Dial a number · ダイヤルを回す</strong></summary>
 
-**`392` — Connected.**
+<p>First digit · 最初の数字をどうぞ。</p>
 
-“You cracked the code. I missed the call. *Beep.*”
+<details><summary><kbd>0</kbd></summary><p>Busy. ツー、ツー……。</p></details>
+<details><summary><kbd>1</kbd></summary><p>Busy. ツー、ツー……。</p></details>
+<details><summary><kbd>2</kbd></summary><p>Busy. ツー、ツー……。</p></details>
 
-「せっかく暗証番号を解いていただいたところ恐縮ですが、留守です。ピーッ」
+<details>
+<summary><kbd>3</kbd></summary>
+
+<blockquote>
+<p><code>3 _ _</code> · Next digit, please. 次の数字をどうぞ。</p>
+
+<details><summary><kbd>0</kbd></summary><p>Busy. ツー、ツー……。</p></details>
+<details><summary><kbd>1</kbd></summary><p>Busy. ツー、ツー……。</p></details>
+<details><summary><kbd>2</kbd></summary><p>Busy. ツー、ツー……。</p></details>
+
+<details>
+<summary><kbd>9</kbd></summary>
+
+<blockquote>
+<p><code>3 9 _</code> · One more digit. あと1桁。</p>
+
+<details><summary><kbd>0</kbd></summary><p>Busy. ツー、ツー……。</p></details>
+<details><summary><kbd>1</kbd></summary><p>Busy. ツー、ツー……。</p></details>
+
+<details>
+<summary><kbd>2</kbd></summary>
+
+<p><strong><code>3 9 2</code> · Connected. 留守電につながりました。</strong></p>
+<p>“You cracked the code. I missed the call. <em>Beep.</em>”</p>
+<p>「せっかく暗証番号を解いていただいたところ恐縮ですが、留守です。ピーッ」</p>
 
 </details>
+</blockquote>
+</details>
+</blockquote>
+</details>
 
+<details><summary><kbd>9</kbd></summary><p>Busy. ツー、ツー……。</p></details>
+
+</details>
 ## GitHub stats
 
 <p>
