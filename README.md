@@ -29,6 +29,22 @@ I’m a developer in Japan. I have opinions about Inter’s starting eleven, so 
 
 </details>
 
+## GitHub stats
+
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=nero-15&amp;show_icons=true&amp;theme=gotham&amp;count_private=true" target="_blank" rel="noopener noreferrer">
+    <img height="175" align="center" alt="nero-15's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nero-15&amp;show_icons=true&amp;theme=gotham&amp;count_private=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nero-15&amp;theme=gotham&amp;layout=compact" target="_blank" rel="noopener noreferrer">
+    <img height="175" align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nero-15&amp;theme=gotham&amp;layout=compact" />
+  </a>
+</p>
+<p>
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=nero-15&amp;theme=gotham" target="_blank" rel="noopener noreferrer">
+    <img height="175" alt="GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=nero-15&amp;theme=gotham" />
+  </a>
+</p>
+
 ## Extension 15
 
 “You’ve reached nero-15. Enter the three-digit code after the beep.”
@@ -88,19 +104,3 @@ Choose three different digits from `0` `1` `2` `3` `9`.
 <details><summary><kbd>9</kbd></summary><p>Busy. ツー、ツー……。</p></details>
 
 </details>
-
-## GitHub stats
-
-<p>
-  <a href="https://github-readme-stats.vercel.app/api?username=nero-15&amp;show_icons=true&amp;theme=gotham&amp;count_private=true" target="_blank" rel="noopener noreferrer">
-    <img height="175" align="center" alt="nero-15's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nero-15&amp;show_icons=true&amp;theme=gotham&amp;count_private=true" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nero-15&amp;theme=gotham&amp;layout=compact" target="_blank" rel="noopener noreferrer">
-    <img height="175" align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nero-15&amp;theme=gotham&amp;layout=compact" />
-  </a>
-</p>
-<p>
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=nero-15&amp;theme=gotham" target="_blank" rel="noopener noreferrer">
-    <img height="175" alt="GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com?user=nero-15&amp;theme=gotham" />
-  </a>
-</p>
